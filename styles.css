@@ -1,18 +1,2 @@
 
 /* Your CSS Code here. */
-#nestedTable1,#nestedTable2,#nestedTable3,#nestedTable4
-{
-	 width: 100%;
-    text-align: center;
-    
-}
-table,th,td
-{
-    border: 1px solid black;
-}
-#blackCell
-{
-	background-color: black;
-    color: white;
-    text-align: center;
-}
